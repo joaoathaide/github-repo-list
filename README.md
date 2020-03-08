@@ -21,9 +21,11 @@ React GitHub Repositories List
   <a href="#license">License</a>
 </p>
 
+<p align="center">
  <img src="src/assets/index.png" alt="index">
   <br>
  <img src="src/assets/repos.png" alt="repos">
+</p>
 
 ## :rocket: Technologies
 
@@ -37,7 +39,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 ## Getting started
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/en/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
